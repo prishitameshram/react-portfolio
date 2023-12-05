@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', 'Arial', sans-serif;
+}
+
+
+.navbar {
+  background-color: #fefdfd;
+  overflow: hidden;
+  position: static;
+  top: 0;
+  /* width: 100%; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px;
+  padding-left: 130px;
+}
+
+.navbar a {
+  color: rgb(11, 11, 11);
+  text-decoration: none;
+  margin-left: 40px;
+}
+
+.navbar img {
+  width: 25px;
+  height: 25px;
+  margin-left: 35px;
+  
+}
+
+.active {
+    border-bottom: 1px solid rgb(180, 179, 179);
+}
+  
+.hero-image {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+
+  
+  
+ 

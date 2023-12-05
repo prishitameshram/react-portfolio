@@ -1,0 +1,43 @@
+/* src/styles/Skills.css */
+.skills {
+    padding: 20px;
+    background-color: #111111; /* Adjust as needed */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+  }
+  
+
+  .technical-skills h3{
+    color: #94C4EB;
+  }
+
+  .design-skills h3 {
+    color: #d359fc;
+  }
+
+  .research-skills h3{
+    color: #acf85f;
+  }
+
+  .collaboration-skills h3{
+    color: #fff237;
+  }
+  
+  .technical-skills h3,
+  .design-skills h3,
+  .research-skills h3,
+  .collaboration-skills h3 {
+    padding-left: 170px;
+    padding-top: 50px;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .technical-skills p,
+  .design-skills p,
+  .research-skills p,
+  .collaboration-skills p {
+    color: #fcfbfb;
+  }
+  

@@ -1,0 +1,16 @@
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  padding-left: 170px; /* Adjust the left padding as needed */
+  padding-top: 55px;
+  font-size: 30px;
+}
+
+p {
+  padding-left: 170px; /* Adjust the left padding as needed */
+  padding-top: 15px;
+  font-size: 17px;
+  letter-spacing: 0.35px;
+  margin-right: 160px;
+  padding-bottom: 50px;
+}
